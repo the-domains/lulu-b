@@ -1,28 +1,40 @@
-name: Lulu.B
-favicon: null
-layout_spectrum: 0.56579
-typography_spectrum: 0.28698
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.5531915
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.4340425
+  brandStrength: 0.75
+  lightness: 0.688027
   brandColors:
     - '#fffbe5'
     - '#8ae7df'
     - '#fee0d4'
     - '#4bdfde'
     - '#d2f2e3'
-  brandStrength: 0.75
-  lightness: 0.688027
-  saturation: 0.4831366
   rhythmicContrast: 0.3195615
-purpose: []
+typography_spectrum: 0.28698
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Lulu.B
