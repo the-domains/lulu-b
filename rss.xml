@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Lulu.B]]></title>
         <description><![CDATA[Lulu.B]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lulu-b/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 23:39:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Jan 2016 23:39:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lulu-b/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Churros with our favourite Spanish chef!]]></title>
+            <description><![CDATA[<h1>Churros with our favourite Spanish chef!</h1>]]></description>
+            <link>https://thegrid.ai/lulu-b/churros-with-our-favourite-spanish-chef/index.html</link>
+            <guid isPermaLink="false">05801289-84e3-406e-ae1f-f5522d671d5f</guid>
+            <pubDate>Sat, 09 Jan 2016 23:38:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6db3d14b-7605-4b97-8bc8-94ee849f23e4.png">]]></description>
-            <link>undefined9868b0fb-14a3-42fb-b1e9-e16114ccaad6/index.html</link>
+            <link>https://thegrid.ai/lulu-b/9868b0fb-14a3-42fb-b1e9-e16114ccaad6/index.html</link>
             <guid isPermaLink="false">9868b0fb-14a3-42fb-b1e9-e16114ccaad6</guid>
             <pubDate>Sat, 09 Jan 2016 23:38:53 GMT</pubDate>
         </item>
